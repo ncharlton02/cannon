@@ -1,2 +1,2 @@
 # cannon
-A TUI Library for Rust
+A version of the cannon crate for mini
